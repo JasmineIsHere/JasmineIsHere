@@ -1,6 +1,6 @@
 ## Hi there, Jasmine here 👋
 
-Currently a full-time software engineer at a company that helps to pay my bills but occasionally, I like to come over here to dabble in little side projects of my own when work just isn't interesting enough. 
+Currently a full-time software engineer but occasionally, I like to come over here to dabble in little side projects of my own.
 <!--
 **JasmineIsHere/JasmineIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
