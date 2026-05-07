@@ -1,4 +1,4 @@
-## Hi there, Jasmine here 👋
+## Hi there, this is Jasmine with an E 👋
 
 Currently a full-time software engineer but occasionally, I like to come over here to dabble in little side projects of my own.
 <!--
